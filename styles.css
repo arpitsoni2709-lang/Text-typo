@@ -1,0 +1,16 @@
+html {
+    background-color: rgb(151, 217, 255);
+    color: rgb(73, 28, 0);
+    font-family: "SN Pro", sans-serif;
+}
+
+.site-id {
+    font-size: 80px;
+    line-height: 0.8;
+    color: rgb(0, 0, 0);
+    font-family: "Outfit", sans-serif;
+}
+
+.right {
+    text-align: right;
+}
